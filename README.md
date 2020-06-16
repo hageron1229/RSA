@@ -67,6 +67,6 @@ pythonで作っておいてなんですが、public,privateをfiled変数にも�
 
 Reference
 
-「RSA暗号の仕組みと安全性」（https://mathtrain.jp/rsaango）
+「RSA暗号の仕組みと安全性」-https://mathtrain.jp/rsaango
 
-「Python で公開鍵暗号アルゴリズム RSA を実装してみる」(https://qiita.com/QUANON/items/e7b181dd08f2f0b4fdbe)
+「Python で公開鍵暗号アルゴリズム RSA を実装してみる」-https://qiita.com/QUANON/items/e7b181dd08f2f0b4fdbe
